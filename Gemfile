@@ -74,4 +74,7 @@ end
 gem 'httparty'
 gem 'nokogiri'
 gem 'pry'
-require "crack"
+gem "crack"
+gem 'graphql'
+gem 'graphiql-rails', group: :development
+gem 'dotenv-rails'
