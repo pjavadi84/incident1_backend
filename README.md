@@ -10,16 +10,15 @@ Things you may want to cover:
 
 
 * System dependencies
-<!-- none -->
-<!-- webpack or yarn -->
+- 1) webpack, yarn, etc 
 
 * Configuration
-<!-- making sure about CSRF, authentication, external API connections (404 errors, etc) -->
-<!-- always bundle install -->
+<!-- in progress: making sure about CSRF, authentication, external API connections (404 errors, etc) -->
+- 1) in your terminal always `bundle install`
 
 * Database creation
 <!-- ****Rails default database of choice is sqlite. make sure to change storage.yml****  -->
-- 1) run `rails db:create`
+- 1) in your terminal, run `rails db:create`
 
 * Database initialization
 - run `rails db:migrate`
