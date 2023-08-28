@@ -19,13 +19,17 @@ Things you may want to cover:
 
 * Database creation
 <!-- ****Rails default database of choice is sqlite. make sure to change storage.yml****  -->
-<!-- rails db:create -->
+- 1) run `rails db:create`
+
 * Database initialization
+- run `rails db:migrate`
 
 * How to run the test suite
+<!-- in progress -->
 
 * Services (job queues, cache servers, search engines, etc.)
-
+<!-- in progress -->
 * Deployment instructions
+<!-- in progress -->
 
 * ...
