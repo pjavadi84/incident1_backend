@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-<b> Ruby version<b>
+***Ruby version***
 -> Latest version or higher (As of 08/28/23: ruby 3.1.4p223 (2023-03-30 revision 957bb7cb81))
 
 
