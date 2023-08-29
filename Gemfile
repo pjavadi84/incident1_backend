@@ -78,3 +78,4 @@ gem "crack"
 gem 'graphql'
 gem 'graphiql-rails', group: :development
 gem 'dotenv-rails'
+gem 'rack-cors'

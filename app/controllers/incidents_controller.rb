@@ -4,6 +4,7 @@ class IncidentsController < ApplicationController
         # binding.pry
         @incidents = FetchIncidentsService.call
         render json: @incidents
+        # binding.pry
     end
     
     # def show
